@@ -36,4 +36,4 @@ COVID-19 Dataset:Number of Confirmed, Death and Recovered cases every day across
 
 # Acknowledgements
 
-Thanks Udacity for designing the project, and I also appreciate 
+Thanks Udacity for designing the project, and I also appreciate the database provided with free access by Devakumar kp.
