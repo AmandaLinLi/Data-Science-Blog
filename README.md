@@ -87,4 +87,5 @@ udacity-project1.ipynb
 
 # Acknowledgements
 
-Thanks Udacity for designing the project, and I also appreciate the database provided with free access by Devakumar kp.
+Thanks Udacity for designing the project, and I also appreciate the database collected by Devakumar kp from https://github.com/CSSEGISandData/COVID-19 and
+https://www.worldometers.info/
