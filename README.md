@@ -3,21 +3,22 @@ Udacity Project1
 
 # Libraries used
 
-Numpy
-pandas
-matplotlib
-sklearn
-seaborn
-math
+- Numpy
+- pandas
+- matplotlib
+- sklearn
+- seaborn
+- math
 
 # Motivations for the project, 
 ## Primary motivation: 
 
-
+- 1.  
+- 2.
+- 3.
 
 ## Secondary Motivation
-
-
+- 
 
 # Files in the repository
 
