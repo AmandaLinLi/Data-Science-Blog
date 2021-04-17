@@ -43,7 +43,8 @@ COVID-19 Dataset:Number of Confirmed, Death and Recovered cases every day across
 - Americas have relatived low recovery rate compared with their high death rate, while Europe have both high death rate and high recovery rate among the WHO regions
 
 
-  **Variables** **Coefficients*
+  **Variables**  **Coefficients*
+  
   Confirmed	-0.000004
   
 	Deaths	0.000411
@@ -57,15 +58,25 @@ COVID-19 Dataset:Number of Confirmed, Death and Recovered cases every day across
 	New deaths	-0.007451
   
 	New recovered	-0.000262
+	
 	Recovered / 100 Cases	-0.006877
+	
 	Deaths / 100 Recovered	0.002012
+	
 	Confirmed last week	-0.000005
+	
 	1 week change	0.000015
+	
 	1 week % increase	-0.012441
+	
 	Americas	0.086453
+	
 	Eastern Mediterranean	2.046534
+	
 	Europe	0.739412
+	
 	South-East Asia	-0.852902
+	
 	Western Pacific	-0.94440
 
 
