@@ -31,6 +31,9 @@ COVID-19 Dataset:Number of Confirmed, Death and Recovered cases every day across
 
 # Files in the repository
 
+README.md
+
+udacity-project1.ipynb
 
 # Summary of the results of the analysis
 
