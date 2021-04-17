@@ -45,7 +45,7 @@ udacity-project1.ipynb
 
 - Americas have relatived low recovery rate compared with their high death rate, while Europe have both high death rate and high recovery rate among the WHO regions
 
-- Results of linear model analysis
+- **Results of linear model analysis**
 
   **Variables   Coefficients**
   
