@@ -37,6 +37,7 @@ udacity-project1.ipynb
 
 # Summary of the results of the analysis
 
+## Results of data visualization
 - 1 country of Africa (South Africa), 5 countries of Americas (Chile, Peru, Mexico, Brazil, and US), 1 country of Eastern Mediterranean (Iran), 2 countries of Europe (United Kingdom, Russia), and 1 South-East Asia country (India) are among the top 10 countries who have the greatest number of total confirmed cases, 
 
 - As for deaths of Covid-19, 4 countries of Americas (Peru, Mexico, Brazil and US), 1 country of Eastern Mediterranean (Iran), 4 countries of Europe (France, Spain, Italy, United Kingdom), and 1 South-East Asia country (India) are ranked top 10
@@ -45,7 +46,7 @@ udacity-project1.ipynb
 
 - Americas have relatived low recovery rate compared with their high death rate, while Europe have both high death rate and high recovery rate among the WHO regions
 
-- **Results of linear model analysis**
+## Results of linear model analysis
 
   **Variables   Coefficients**
   
