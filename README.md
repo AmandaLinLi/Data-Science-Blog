@@ -51,7 +51,7 @@ udacity-project1.ipynb
 
   **Variables   Coefficients**
   
-       Confirmed -0.000004
+    Confirmed -0.000004
   
 	Deaths	0.000411
   
