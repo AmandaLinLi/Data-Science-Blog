@@ -39,7 +39,7 @@ udacity-project1.ipynb
 
 ## Results of data visualization
 
-- country of Africa (South Africa), 5 countries of Americas (Chile, Peru, Mexico, Brazil, and US), 1 country of Eastern Mediterranean (Iran), 2 countries of Europe (United Kingdom, Russia), and 1 South-East Asia country (India) are among the top 10 countries who have the greatest number of total confirmed cases, 
+- 1 country of Africa (South Africa), 5 countries of Americas (Chile, Peru, Mexico, Brazil, and US), 1 country of Eastern Mediterranean (Iran), 2 countries of Europe (United Kingdom, Russia), and 1 South-East Asia country (India) are among the top 10 countries who have the greatest number of total confirmed cases, 
 
 - As for deaths of Covid-19, 4 countries of Americas (Peru, Mexico, Brazil and US), 1 country of Eastern Mediterranean (Iran), 4 countries of Europe (France, Spain, Italy, United Kingdom), and 1 South-East Asia country (India) are ranked top 10
 
