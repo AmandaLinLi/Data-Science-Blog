@@ -27,7 +27,7 @@ COVID-19 Dataset:Number of Confirmed, Death and Recovered cases every day across
 - 3.  To visualize deaths/100 cases and recovered/100 cases of Covid-19 among countries in each WHO regions
 
 ## Secondary Motivation
-- Using machine linearing (liear regression) method to show how some factors of interests contribute to death/100 cases 
+- Using machine learing (linear regression) method to show how some factors of interests contribute to death/100 cases 
 
 # Files in the repository
 
@@ -43,7 +43,7 @@ udacity-project1.ipynb
 
 - As for deaths of Covid-19, 4 countries of Americas (Peru, Mexico, Brazil and US), 1 country of Eastern Mediterranean (Iran), 4 countries of Europe (France, Spain, Italy, United Kingdom), and 1 South-East Asia country (India) are ranked top 10
 
-- Americas have largest number of confirmed cases, confirm cases/ 1M people, deaths, deaths cas/ 1M people, followed by Europe among all WHO regions; western Pacific area has the least of all four metrics.  And, although total confirmed cases and deaths in South-East Asia seems high, the number per 1M people is relatively small. 
+- Americas have largest number of confirmed cases, confirm cases/ 1M people, deaths, deaths/ 1M people, followed by Europe among all WHO regions; western Pacific area has the least of all four metrics.  And, although total confirmed cases and deaths in South-East Asia seems high, the number per 1M people is relatively small. 
 
 - Americas have relatived low recovery rate compared with their high death rate, while Europe have both high death rate and high recovery rate among the WHO regions
 
