@@ -86,6 +86,9 @@ udacity-project1.ipynb
 	Western Pacific	-0.94440
 
 
+# Blog Linkage:
+
+https://link.medium.com/VoAuq2zKyfb
 
 # Acknowledgements
 
